@@ -1,3 +1,3 @@
  # HESTIA
  ***
-    A research platform that asseses environmental impact of agriculture sector
+    A research platform that asseses the environmental impacts of the agriculture sector
